@@ -518,7 +518,7 @@ object {
 
 img {
 	height: auto;
-	max-width: 100%;
+	width: auto;
 }
 
 figure {
@@ -971,6 +971,12 @@ textarea {
 
 /* css additionnels
 -------------------------------------------------------------------------- */
+body{
+	margin: 0 !important;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
 
 header{
 
@@ -1026,6 +1032,7 @@ footer{
 }
 
 .footerflex ul{
+	margin-top: 20px;
 	margin-left: auto;
 }
 .footerflex a{
