@@ -475,13 +475,6 @@ body {
 	background: #fff;
 }
 
-header{
-
-}
-.site-title{
-	display: none;
-}
-
 hr {
 	background-color: #ccc;
 	border: 0;
@@ -974,4 +967,77 @@ textarea {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 1.5em;
+}
+
+/* css additionnels
+-------------------------------------------------------------------------- */
+
+header{
+
+}
+.site-title{
+	display: none;
+}
+.entry-title{
+	display: none;
+}
+
+footer{
+	background-color: #E6E6E6;
+	margin: 0;
+}
+
+.footerflex{
+	display: flex;
+	margin-bottom: -20px;
+}
+
+.iutbmlogo{
+	display: block;
+	height: 50px;
+	width: 100px;
+	background-image: url("http://localhost/test-theme/wp-content/uploads/2020/11/IUT_standard_CMJN.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	text-indent: -9999px;
+	margin: 10px;
+}
+.univlogo{
+	display: block;
+	margin: 10px;
+	height: 50px;
+	width: 100px;
+	background-image: url("http://localhost/test-theme/wp-content/uploads/2020/12/logo_univ_footer.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	text-indent: -9999px;
+}
+
+.coordonee{
+	font-family: 'Open Sans', sans-serif;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.coordonee h2{
+	font-size: 0.6em;
+}
+.coordonee p{
+	font-size: 0.6em;
+}
+
+.footerflex ul{
+	margin-left: auto;
+}
+.footerflex a{
+	font-family: 'Pathway Gothic One', sans-serif;
+	text-decoration: none;
+	color: black;
+	margin-right: 60px;
+}
+footer>p{
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 0.8em;
+	padding-left: 10px;
+	padding-bottom: 3px;
+	margin: 0;
 }
