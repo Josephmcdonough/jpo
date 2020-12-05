@@ -981,6 +981,26 @@ body{
 header{
 
 }
+
+.reseauxfixed{
+	position: relative;
+}
+
+.reseauxfixed img{
+	height: 35px;
+	width: auto;
+}
+
+.reseauxfixed ul{
+	position: absolute;
+	list-style: none;
+	top: 200px;
+	right: 40px;
+}
+.reseauxfixed li{
+	padding-top: 100px;
+}
+
 .site-title{
 	display: none;
 }

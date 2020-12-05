@@ -59,4 +59,15 @@
 			);
 			?>
 		</nav><!-- #site-navigation -->
+        <div class="reseauxfixed">
+            <ul>
+                <li class="twi"><a href="https://twitter.com/montbel_iut"><img src="http://localhost/test-theme/wp-content/uploads/2020/12/twitter.png" alt="twitter"/></a>
+                </li>
+                <li class="insta"><a href="https://www.instagram.com/mont_bel_iut"><img src="http://localhost/test-theme/wp-content/uploads/2020/12/instagram.png"
+                                                                                        alt="Instagram"/></a></li>
+                <li class="ytb"><a href="https://www.youtube.com/channel/UCOipQ939Yy0Ja5GVI4l-lvA"><img
+                                src="http://localhost/test-theme/wp-content/uploads/2020/12/youtube.png" alt="Youtube"/></a></li>
+                <li class="fb"><a href="#"><img src="http://localhost/test-theme/wp-content/uploads/2020/12/facebook.png" alt="Facebook"/></a></li>
+            </ul>
+        </div>
 	</header><!-- #masthead -->
