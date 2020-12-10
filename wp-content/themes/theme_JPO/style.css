@@ -989,6 +989,33 @@ body{
 	padding-bottom: 25px;
 }
 
+#masthead > div.site-branding{
+	display: block;
+}
+
+#primary-menu{
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+}
+
+#site-navigation{
+	margin-left: auto;
+	margin-right: 40px;
+	width: max-content;
+}
+
+nav li{
+	margin-top: 25px;
+	padding-left: 40px;
+}
+
+nav a{
+	text-decoration: none;
+	color: black;
+	font-size: 1.5em;
+}
+
 .reseauxfixed{
 	position: relative;
 }
