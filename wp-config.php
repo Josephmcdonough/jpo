@@ -22,16 +22,16 @@
 
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
-define( 'DB_NAME', 'jpoiutbm' );
+define( 'DB_NAME', 'm3480_jpovirtuelles' );
 
 /** Utilisateur de la base de données MySQL. */
-define( 'DB_USER', 'jpoiutbm' );
+define( 'DB_USER', 'm3480_josephmcd' );
 
 /** Mot de passe de la base de données MySQL. */
-define( 'DB_PASSWORD', 'Ka6lCp7pRH9j2' );
+define( 'DB_PASSWORD', 'MlhcTS3#71' );
 
 /** Adresse de l’hébergement MySQL. */
-define( 'DB_HOST', 'https://jpo.iut-bm.univ-fcomte.fr/' );
+define( 'DB_HOST', 'http://jpo-virtuelles.joseph-mcdonough.com/' );
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
