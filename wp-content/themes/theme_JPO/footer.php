@@ -24,9 +24,9 @@
                     tél. +33(0)3 84 58 77 00</p>
             </div>
             <ul style="list-style-type: none;">
-                <li><a href="">&rarr; Mentions légales</a></li>
-                <li><a href="">&rarr; Conditions générales d’utilisation</a></li>
-                <li><a href="">&rarr; Newsletter</a></li>
+                <li><a href="http://jpo-virtuelles.joseph-mcdonough.com/politique-de-confidentialite#mentionslegales">&rarr; Mentions légales</a></li>
+                <li><a href="http://jpo-virtuelles.joseph-mcdonough.com/politique-de-confidentialite/">&rarr; Conditions générales d’utilisation</a></li>
+                <li><a href="http://jpo-virtuelles.joseph-mcdonough.com/newsletter-2/">&rarr; Newsletter</a></li>
             </ul>
         </div>
         <p>Etablissement public d’ens. supérieur, composante de l’Université de Franche-Comté</p>
